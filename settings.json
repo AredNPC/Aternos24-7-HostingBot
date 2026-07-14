@@ -31,9 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I am a Bot"
       ]
     },
     "chat-log": true,
@@ -74,8 +72,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night":true
   },
   "discord": {
     "enabled": false,
